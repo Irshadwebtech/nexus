@@ -1,0 +1,1 @@
+{"name":"NEXUS AI Personal Assistant","short_name":"NEXUS AI","description":"Personal AI assistant and organizer","start_url":"./","scope":"./","display":"standalone","background_color":"#080e1c","theme_color":"#080e1c","orientation":"portrait-primary","icons":[{"src":"./nexus.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
